@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^2.4.0",
+    "archiver": "^5.3.1",
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "discord.js": "^14.14.1",
+    "discord.js-selfbot-v13": "^3.1.4",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.1.1",
+    "node-fetch": "^2.6.0"
+  },
+  "name": "base-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
